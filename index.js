@@ -1,8 +1,10 @@
 const express = require('express');
-const mongo  = require('mongodb');
+const connectDB  = require('./db');
 
 const app = express();
 
+//Connect Database
+connectDB();
 
 const PORT = process.env.PORT||5000;
 
