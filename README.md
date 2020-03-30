@@ -12,6 +12,7 @@
 * After cloning the repo add a file and name it `.env`
 * Inside the .env file do
     * `MONGO_URI = <paste the link of your cluster>`
+    * `JWT_TOKEN = <add anything you want like (default)`
 
 * Run `npm run index.js`
 * It will start your backend server and connect your mongoDB database.
