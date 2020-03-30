@@ -16,3 +16,9 @@
 
 * Run `npm run index.js`
 * It will start your backend server and connect your mongoDB database.
+
+## License
+  
+MIT License
+
+Copyright (c) 2020 Aditya Tomar
