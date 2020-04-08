@@ -1,5 +1,4 @@
 import axios from 'axios';
-import { set } from 'mongoose';
 
 const setAuthtoken = token => {
     if(token){
